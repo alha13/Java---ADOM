@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personnes>
+   <etudiant classe="P2">
+      <nom>Ouattra</nom>
+      <prenoms>
+         <prenom>Zie</prenom>
+         <prenom>Alhassane</prenom>
+      </prenoms>
+   </etudiant>
+   <etudiant classe="P1">
+      <nom>koffi</nom>
+   </etudiant>
+   <etudiant classe="P1">
+      <nom>Carol</nom>
+   </etudiant>
+</personnes>
